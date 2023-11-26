@@ -12,8 +12,8 @@ class MyAI(Player):
         sorted_hand = sorted(hand, key=lambda card: card.number)
 
         #Initialize variables so we can choose the best card from our hand
-        best_card = None
-        min_gap = 1000000.0
+        best_card = None 
+        min_gap = 1000000.0 
         min_penalty = 1000000.0
 
 
