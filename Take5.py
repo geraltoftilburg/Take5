@@ -11,7 +11,7 @@ from Take5State import State
 # Handy functions for the players.
 
 DEFAULTLENGTH = 1000
-DEFAULTAIS = ['Take5Beginners', 'MyAI']
+DEFAULTAIS = ['Take5Beginners', 'Take5AI_DogaAras2049579']
 
 MAXPLAYERS = 10
 STARTHANDSIZE = 10
